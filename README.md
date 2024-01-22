@@ -7,7 +7,7 @@
 ---
 
 ## **Goals**
-1. Use critical engineering design topics such as:
+1. Use ***critical engineering*** design topics such as:
    - needs assessment
    - problem formulation
    - modeling
