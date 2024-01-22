@@ -2,7 +2,7 @@
 
 > "The only thing we can truly control is where we place our attention and where we place our effort."
 
-<img src="https://github.com/andrewanan/CPE322/blob/main/a9b.jpeg" alt="Nah I'd Pass" width="200"/>
+<a href="https://sites.google.com/view/ece322/home?authuser=0"><img src="https://github.com/andrewanan/CPE322/blob/main/a9b.jpeg" alt="Nah I'd Pass" width="200"/></a>
 
 ## **Goals**
 1. Use critical engineering design topics such as:
