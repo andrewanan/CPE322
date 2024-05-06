@@ -7,11 +7,11 @@
 - Lab 3
 - Lab 4
 - Lab 5
-  
-## Labs to be Completed
-
 - Lab 6
 - Lab 7
 - Lab 8
+  
+## Labs to be Completed
+
 - Lab 9
 - Lab 10
