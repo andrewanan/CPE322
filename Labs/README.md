@@ -10,8 +10,9 @@
 - Lab 6
 - Lab 7
 - Lab 8
+- Lab 9
+- Lab 10
   
 ## Labs to be Completed
 
-- Lab 9
-- Lab 10
+Yippee!!
